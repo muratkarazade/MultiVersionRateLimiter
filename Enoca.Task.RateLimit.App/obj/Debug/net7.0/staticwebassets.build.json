@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QVYTqpN50LHcm/yjj7vFR1gIA7x2X9e+4mtDIcju/WM=",
+  "Source": "Enoca.Task.RateLimit.App",
+  "BasePath": "_content/Enoca.Task.RateLimit.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
